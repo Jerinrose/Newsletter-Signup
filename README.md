@@ -2,11 +2,11 @@
 
 **_This is a Newsletter-Signup webpage._**
 
-The first page is designed using Bootstrap
+The login page is designed using Bootstrap
 
 **_Node.js_** is used
 
-The user entered data is sent to **_Mailchimp_** from which the admin can see through the subscribers.
+The user entered data is sent to **_Mailchimp_** from which the admin can see the subscribers list.
 
 Mailchimp api is used to push the user data into it.
 
