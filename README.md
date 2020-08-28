@@ -2,7 +2,7 @@
 
 **_This is a Newsletter-Signup webpage._**
 
-The login page is designed using Bootstrap
+The login page is designed using **_Bootstrap_**
 
 **_Node.js_** is used
 
