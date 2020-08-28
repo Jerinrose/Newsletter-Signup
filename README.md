@@ -1,16 +1,16 @@
 # Newsletter-Signup
-Signup to a Newsletter
 
-This is a Newsletter-Signup webpage.
+**_This is a Newsletter-Signup webpage._**
 
 The first page is designed using Bootstrap
 
-Node.js is used
+**_Node.js_** is used
 
-The user entered data is sent to Mailchimp from which the admin can see through the subscribers.
+The user entered data is sent to **_Mailchimp_** from which the admin can see through the subscribers.
 
 Mailchimp api is used to push the user data into it.
 
-Using git the code files where pushed to Heroku to host the server for the website.
+Using git the code files where pushed to **_Heroku_** to host the server for the website.
 
 The webpage can be found in::https://infinite-brook-19509.herokuapp.com/
+**_(Since the apikey used here cannot be public,the page would not load)
